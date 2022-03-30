@@ -4,7 +4,7 @@ title: Videos
 uid: c94cd5fc-7beb-30c8-579b-9915475af643
 ---
 
-![A woman explaining old stars formation with graph and text around her.](/resources/res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019/Videos/Anna.jpg) 
+{{< resource "ea6efa42-4976-ad67-948c-e28ddce87dd4" >}} 
 
 In Episode 4, Professor Frebel describes how the old stars formed from gas enriched by only one or few supernovae and younger stars, like the sun, formed from gas enriched by perhaps a thousand events.
 
